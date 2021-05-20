@@ -19,3 +19,12 @@ A text editor is a software that allows you to write and manage the text to buil
 * Atom
 * Brackets
 * Sublime Text
+
+### Basic terminal usage
+
+* pwd: shows current working directory
+* ls: shows what is in the current location
+* ~: shortcut for home directory
+* .: reference to current directory
+* ..: reference to the parent directory
+* cd: change directory
