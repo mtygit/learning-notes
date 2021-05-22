@@ -6,9 +6,9 @@
   1. Switch to the target project’s directory: cd
   2. Use the git init command: git init
   3. To start tracking these repository files: 
-     - git add \*.c
+     - git add *.c
      - git add LICENSE
-     - git commit \-m "any message here"
+     - git commit -m "any message here"
 
 - Cloning 
   - git clone URL
