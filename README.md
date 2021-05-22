@@ -8,3 +8,4 @@ Hi, my name is Tim Ma. I am working full-time as a nursing assistant at a hospit
 - [Markdowns](markdown.md)
 - [Text Editors](text-editor.md)
 - [Intro to Git](git-intro.md)
+- [Practice with Git](git-practice.md)
