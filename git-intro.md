@@ -19,7 +19,7 @@
   - Check file status: git status 
   - Tracking and staging a new file:
     - Single file: git add filename
-    - All files: git add \*
+    - All files: git add *
   - Committing a file: git commit -m "made change 1, 2, 3"
   - Committing all changes: git commit -a
   - Pushing changes: git push origin main
