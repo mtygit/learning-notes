@@ -11,7 +11,23 @@
      - git commit \-m \"any message here\"
 
 - Cloning 
+  - Using git clone URL
 
-Using git clone URL
+## Workflow
 
+- Useful commands:
+  - Check file status: git status 
+  - Tracking and staging a new file:
+    - Single file: git add filename
+    - All files git add \*
+  - Committing a file: git commit -m "made change 1, 2, 3"
+  - Committing all changes: git commit -a
+  - Pushing changes: git push origin main
+  - Stashing changes: git stash
+  - Retrieving the hidden changes: git stash apply
 
+## Remote Repositories
+
+- Seeing your remotes
+  - git remote 
+  - git remote -v
