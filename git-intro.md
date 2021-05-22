@@ -7,7 +7,7 @@
   2. Use the git init command: git init
   3. To start tracking these repository files: 
      - git add \*\.c
-     - git add License
+     - git add LICENSE
      - git commit \-m \"any message here\"
 
 - Cloning 
