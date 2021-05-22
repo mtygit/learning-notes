@@ -11,6 +11,7 @@
      - git commit \-m \"any message here\"
 
 - Cloning 
-using git clone URL
+
+Using git clone URL
 
 
