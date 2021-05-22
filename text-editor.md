@@ -28,3 +28,5 @@ A text editor is a software that allows you to write and manage the text to buil
 * .: reference to current directory
 * ..: reference to the parent directory
 * cd: change directory
+
+[<==Back>](README.md)
