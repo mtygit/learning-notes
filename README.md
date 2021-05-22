@@ -5,3 +5,6 @@ Hi, my name is Tim Ma. I am working full-time as a nursing assistant at a hospit
 ## Table of Contents
 
 - [Growth Mindset](growth-mindset.md)
+- [Markdowns](markdown.md)
+- [Text Editors](text-editor.md)
+- [Intro to Git](git-intro.md)
