@@ -36,7 +36,7 @@ Wireframe is a practice that helps the designers to define and plan the informat
   - Unordered lists: \<ul>
   - Ordered lists: \<ol>
   - List item: \<li>
-- Links: \<a href=\"https://link-to-something">something\</a>
+- Links: \<a href=\"https://link-to-something\">something\</a>
   
 
 ## Semantics
