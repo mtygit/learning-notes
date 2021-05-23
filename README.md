@@ -18,3 +18,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Text Editors](text-editor.md)
 - [Intro to Git](git-intro.md)
 - [Practice with Git](git-practice.md)
+- [HTML](html.md)
