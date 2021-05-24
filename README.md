@@ -20,3 +20,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Practice with Git](git-practice.md)
 - [HTML](html.md)
 - [CSS](css.md)
+- [JavaScript](javascript.md)
