@@ -22,3 +22,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [CSS](css.md)
 - [JavaScript](javascript.md)
 - [Expression, Operator, and Function](control_flow.md)
+- [Operators and Loops](operators-loops.md)
