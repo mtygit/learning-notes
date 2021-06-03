@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, my name is Tim Ma. Welcome to my page about learning how to code. I am currently taking courses with Code Fellows and here are my notes to share with you.
+Hi, my name is Tianyi (Tim) Ma. Welcome to my page about learning how to code. I am currently taking courses with Code Fellows and here are my notes to share with you.
 
 ## Growth Mindset
 
