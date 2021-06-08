@@ -31,3 +31,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 #### Code 201 Reading Notes
 
 - [HTML and JavaScript Recap](class-01.md)
+- [Basics of HTML, CSS & JS](class-02.md)
