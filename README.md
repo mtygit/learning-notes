@@ -33,3 +33,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [HTML and JavaScript Recap](class-01.md)
 - [Basics of HTML, CSS & JS](class-02.md)
 - [HTML Lists, Control Flow with JS, and CSS Box Model](class-03.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
