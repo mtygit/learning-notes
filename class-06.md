@@ -1,8 +1,8 @@
 ## Problem Domain, Objects, and the DOM
 
-### Onjects
+### Objects
 
-An object is a grouped vaeiables and functions that are used to create a model to represent something in the real world. An object has property and method. We can access an object using dot notation.
+An object is a grouped variables and functions that are used to create a model to represent something in the real world. An object has property and method. We can access an object using dot notation.
 
 ### Document Object Model
 
