@@ -37,3 +37,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Images, Color, Text](class-05.md)
 - [Problem Domain, Objects, and the DOM](class-06.md)
 - [Object-Oriented Programming adn HTML Tables](class-07.md)
+- [Layout](class-08.md)
