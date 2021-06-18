@@ -39,3 +39,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Object-Oriented Programming adn HTML Tables](class-07.md)
 - [Layout](class-08.md)
 - [Forms and Js Events](class-09.md)
+- [Error Handling & Debugging](class-10.md)
