@@ -1,0 +1,38 @@
+main{
+  background-color: aqua;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+section{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+#circle {
+  height:300px;
+  width: 300px;
+  background-color: white;
+  border-radius: 50%;
+  border: 30px solid red;
+  display: flex;
+  justify-content: right;
+}
+
+#circle div {
+  height:150px;
+  width: 150px;
+  background-color: white;
+  border-radius: 50%;
+  border: 30px solid red;
+
+  
+}
