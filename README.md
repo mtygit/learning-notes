@@ -41,3 +41,5 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Forms and Js Events](class-09.md)
 - [Error Handling & Debugging](class-10.md)
 - [Images and Practical Information](class-11.md)
+- [Chart.js and Canvas](class-12.md)
+- [Learned About Teams](class-14.md)
