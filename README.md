@@ -1,5 +1,7 @@
 ![](back_ground1.jpeg) 
 
+# Reading Notes
+
 ## Introduction
 
 Hi, my name is Tianyi (Tim) Ma. Welcome to my page about learning how to code. I am currently taking courses with Code Fellows and here are my notes to share with you.
@@ -14,9 +16,9 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - Leaning on Resources
 - Look things up
 
-### Table of Contents
 
-#### Code 102 Reading Notes
+
+## Code 102 Intro to Software Development
 
 - [Markdowns](markdown.md)
 - [Text Editors](text-editor.md)
@@ -28,7 +30,7 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Expression, Operator, and Function](control_flow.md)
 - [Operators and Loops](operators-loops.md)
 
-#### Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
 - [HTML and JavaScript Recap](class-01.md)
 - [Basics of HTML, CSS & JS](class-02.md)
@@ -43,3 +45,8 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Images and Practical Information](class-11.md)
 - [Chart.js and Canvas](class-12.md)
 - [Learned About Teams](class-14.md)
+
+## Code 301 Intermediate Software Development
+
+
+## Code 401 Advanced Software Development
