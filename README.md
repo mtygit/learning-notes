@@ -48,5 +48,6 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 
 ## Code 301 Intermediate Software Development
 
+- [Introduction to React and Components](301-class-01.md)
 
 ## Code 401 Advanced Software Development
