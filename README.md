@@ -51,5 +51,6 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Introduction to React and Components](301-class-01.md)
 - [State and Props](301-class-02.md)
 - [Passing Functions as Props](301-class-03.md)
+- [React and Forms](301-class-04.md)
 
 ## Code 401 Advanced Software Development
