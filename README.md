@@ -56,5 +56,7 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [NODE.js](301-class-06.md)
 - [REST](301-class-07.md)
 - [APIs](301-class-08.md)
+- [Functional Programming](301-class-09.md)
+
 
 ## Code 401 Advanced Software Development
