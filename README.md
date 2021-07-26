@@ -58,6 +58,7 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [APIs](301-class-08.md)
 - [Functional Programming](301-class-09.md)
 - [In memory storage](301-class-10.md)
+- [Authentication](301-class-11.md)
 
 
 ## Code 401 Advanced Software Development
