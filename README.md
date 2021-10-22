@@ -67,3 +67,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Node Ecosystem, TDD, CI/CD](401-class-01.md)
 - [Express](401-class-02.md)
 - [Express REST API](401-class-03.md)
+- [Data Modeling](401-class-04.md)
