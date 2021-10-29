@@ -71,3 +71,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Authentication](401-class-06.md)
 - [Bearer Authentication](401-class-07.md)
 - [Access Control](401-class-08.md)
+- [Authorization/Authentication](401-class-09.md)
