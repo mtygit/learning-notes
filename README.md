@@ -76,3 +76,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Socket.io]](401-class-12.md)
 - [AWS: Cloud Servers](401-class-16.md)
 - [AWS: S3 and Lambda](401-class-17.md)
+- [Component Based UI](401-class-26.md)
