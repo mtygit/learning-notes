@@ -78,3 +78,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [AWS: S3 and Lambda](401-class-17.md)
 - [Component Based UI](401-class-26.md)
 - [useState Hook](401-class-27.md)
+- [Component Lifecycle / useEffect() Hook](401-class-28.md)
