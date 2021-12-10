@@ -82,3 +82,4 @@ A growth mindset to me means that never stop to improve yourself. You have the a
 - [Advanced State with Reducers](401-class-29.md)
 - [Context API](401-class-31.md)
 - [API Integration](401-class-34.md)
+- [Redux-- Combined Reducers](401-class-37.md)
